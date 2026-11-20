@@ -1,5 +1,7 @@
 # CiviCRM MCP Server with GDPR Filtering
 
+Maintainer: [BenjaminVergien](https://github.com/BenjaminVergien)
+
 A **Model Context Protocol (MCP)** server for **CiviCRM APIv4** in Python with integrated GDPR-compliant data filtering.
 
 [🇩🇪 Deutsche Version](#deutsche-version) | [🇬🇧 English Version](#english-version)
